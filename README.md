@@ -175,7 +175,7 @@ requests argon2-cffi cryptography
 **1️⃣ استنساخ المستودع**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/spider.git
+git clone https://github.com/omossadd46-sudo/SpiderChat/
 cd spider
 ```
 
